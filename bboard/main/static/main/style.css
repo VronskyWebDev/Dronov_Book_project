@@ -1,0 +1,6 @@
+header h1{
+background:url('logo_blue_2.png') left/auto 100% no-repeat, url('logo_blue_2.png') right/auto 100% no-repeat;
+}
+.root{
+font-size:larger;
+}
